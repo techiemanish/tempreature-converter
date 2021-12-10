@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/tempreature-converter/static/css/main.04b24d7a.chunk.css",
+    "main.js": "/tempreature-converter/static/js/main.7d234267.chunk.js",
+    "main.js.map": "/tempreature-converter/static/js/main.7d234267.chunk.js.map",
+    "runtime-main.js": "/tempreature-converter/static/js/runtime-main.bf56d141.js",
+    "runtime-main.js.map": "/tempreature-converter/static/js/runtime-main.bf56d141.js.map",
+    "static/js/2.b33bb1d0.chunk.js": "/tempreature-converter/static/js/2.b33bb1d0.chunk.js",
+    "static/js/2.b33bb1d0.chunk.js.map": "/tempreature-converter/static/js/2.b33bb1d0.chunk.js.map",
+    "static/js/3.225ca3fc.chunk.js": "/tempreature-converter/static/js/3.225ca3fc.chunk.js",
+    "static/js/3.225ca3fc.chunk.js.map": "/tempreature-converter/static/js/3.225ca3fc.chunk.js.map",
+    "index.html": "/tempreature-converter/index.html",
+    "precache-manifest.44f1cedd78cc081e9662adced75f78b2.js": "/tempreature-converter/precache-manifest.44f1cedd78cc081e9662adced75f78b2.js",
+    "service-worker.js": "/tempreature-converter/service-worker.js",
+    "static/css/main.04b24d7a.chunk.css.map": "/tempreature-converter/static/css/main.04b24d7a.chunk.css.map",
+    "static/js/2.b33bb1d0.chunk.js.LICENSE.txt": "/tempreature-converter/static/js/2.b33bb1d0.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/tempreature-converter/static/media/logo.06e73328.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bf56d141.js",
+    "static/js/2.b33bb1d0.chunk.js",
+    "static/css/main.04b24d7a.chunk.css",
+    "static/js/main.7d234267.chunk.js"
+  ]
+}
